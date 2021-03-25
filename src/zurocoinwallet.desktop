@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Zurocoin Wallet
+Comment=Zurocoin wallet
+Exec=zurocoinwallet %U
+Terminal=false
+Type=Application
+Icon=zurocoin
+MimeType=x-scheme-handler/zurocoin;
+Categories=Office;Finance;
